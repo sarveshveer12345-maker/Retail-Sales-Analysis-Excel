@@ -85,13 +85,11 @@ Interactive slicers allow dynamic filtering of the dashboard.
 
 ## Tools Used
 
-Microsoft Excel
-- Excel formulas
-- Pivot Tables
-- Slicers for dynamic filtering
-- KPI calculations
-- Data cleaning and structuring
-- Interactive dashboard design
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers for Interactive Filtering
+  
 ---
 
 ## Key Insights
@@ -115,6 +113,16 @@ Microsoft Excel
 
 ---
 
+## Skills Demonstrated
+
+• Data Cleaning and Preparation  
+• Data Aggregation using Pivot Tables  
+• KPI Calculation and Analysis  
+• Data Visualization and Dashboard Design  
+• Business Insight Generation
+
+---
+
 ## Key Learnings
 
 - Transform raw transactional data into structured analysis
@@ -122,6 +130,7 @@ Microsoft Excel
 - Build interactive dashboards in Excel
 - Identify business performance drivers
 - Present insights through data visualization
+  
 ---
 
 ## File Included
@@ -153,6 +162,17 @@ Interactive dashboard summarizing key metrics
 2. Open the file in Microsoft Excel.
 3. Navigate to the Dashboard sheet.
 4. Use slicers to interactively explore the data.
+
+---
+
+## Repository Structure
+
+Retail-Sales-Analysis-Excel
+│
+├── retail_sales_analysis_excel.xlsx
+├── dataset_preview.png
+├── dashboard.png
+└── README.md
 
 ---
 
