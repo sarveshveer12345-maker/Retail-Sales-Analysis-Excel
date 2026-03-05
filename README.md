@@ -110,24 +110,14 @@ Interactive slicers allow dynamic filtering of the dashboard.
 
 - Cancellation rates, although lower than delivered orders, represent an area businesses can monitor to improve order fulfillment efficiency.
 
-
 ---
 
 ## Skills Demonstrated
 
-• Data Cleaning and Preparation  
-• Data Aggregation using Pivot Tables  
-• KPI Calculation and Analysis  
-• Data Visualization and Dashboard Design  
-• Business Insight Generation
-
----
-
-## Key Learnings
-
 - Transform raw transactional data into structured analysis
 - Use pivot tables for business analytics
-- Build interactive dashboards in Excel
+- KPI Calculation and Analysis 
+- Data Visualization and Dashboard Design 
 - Identify business performance drivers
 - Present insights through data visualization
   
@@ -140,6 +130,7 @@ retail_sales_analysis_excel.xlsx
 This Excel file contains the raw dataset, pivot tables, and the final interactive dashboard.
 
 ---
+
 ## Project Structure
 
 Raw_Data 
