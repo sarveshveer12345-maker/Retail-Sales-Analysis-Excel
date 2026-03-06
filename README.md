@@ -1,4 +1,4 @@
-# Retail Sales Analysis Dashboard (Excel)
+s# Retail Sales Analysis Dashboard (Excel)
 
 ## Project Overview
 
@@ -160,10 +160,10 @@ Interactive dashboard summarizing key metrics
 
 Retail-Sales-Analysis-Excel
 │
-├── retail_sales_analysis_excel.xlsx
-├── dataset_preview.png
+├── README.md
 ├── dashboard.png
-└── README.md
+├── dataset_preview.png
+└── retail_sales_analysis_excel.xlsx
 
 ---
 
