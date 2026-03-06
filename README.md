@@ -125,9 +125,11 @@ Interactive slicers allow dynamic filtering of the dashboard.
 
 ## File Included
 
-retail_sales_analysis_excel.xlsx
+dashboard.png
 
-This Excel file contains the raw dataset, pivot tables, and the final interactive dashboard.
+dataset_preview.png
+
+retail_sales_analysis_excel.xlsx
 
 ---
 
