@@ -1,4 +1,4 @@
-s# Retail Sales Analysis Dashboard (Excel)
+# Retail Sales Analysis Dashboard (Excel)
 
 ## Project Overview
 
@@ -162,7 +162,7 @@ Retail-Sales-Analysis-Excel/
 
 - dataset_preview.png - Screenshot showing a preview of the dataset used in the analysis.
 
-- sales_dashboard.png - Screenshot of the final retail sales dashboard created in Excel.
+- sales_dashboard.png - Screenshot of the final Excel dashboard visualizing retail sales performance.
 
 ---
 
