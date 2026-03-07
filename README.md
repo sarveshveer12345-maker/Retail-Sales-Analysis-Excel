@@ -135,12 +135,13 @@ retail_sales_analysis_excel.xlsx
 
 ## Project Structure
 
-Retail-Sales-Analysis-Excel
+Retail-Sales-Analysis-Excel/
 │
 ├── README.md
-├── dashboard.png
+├── Retail Sales Analysis Dashboard.xlsx
+│
 ├── dataset_preview.png
-└── retail_sales_analysis_excel.xlsx
+└── sales_dashboard.png
 
 ---
 
@@ -155,17 +156,13 @@ Retail-Sales-Analysis-Excel
 
 ## Repository Structure
 
-Raw_Data 
-Cleaned dataset used for analysis
+- README.md - Project documentation including project overview, dataset information, dashboard explanation, insights, and recommendations.
 
-Business_Analysis_Framework 
-Business questions guiding the analysis
+- Retail Sales Analysis Dashboard.xlsx - Excel workbook containing the dataset, data analysis, pivot tables, and the final sales dashboard.
 
-Pivot_Analysis 
-Pivot tables used to derive insights
+- dataset_preview.png - Screenshot showing a preview of the dataset used in the analysis.
 
-Dashboard 
-Interactive dashboard summarizing key metrics
+- sales_dashboard.png - Screenshot of the final retail sales dashboard created in Excel.
 
 ---
 
