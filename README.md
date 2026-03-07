@@ -135,17 +135,12 @@ retail_sales_analysis_excel.xlsx
 
 ## Project Structure
 
-Raw_Data 
-Cleaned dataset used for analysis
-
-Business_Analysis_Framework 
-Business questions guiding the analysis
-
-Pivot_Analysis 
-Pivot tables used to derive insights
-
-Dashboard 
-Interactive dashboard summarizing key metrics
+Retail-Sales-Analysis-Excel
+│
+├── README.md
+├── dashboard.png
+├── dataset_preview.png
+└── retail_sales_analysis_excel.xlsx
 
 ---
 
@@ -160,12 +155,17 @@ Interactive dashboard summarizing key metrics
 
 ## Repository Structure
 
-Retail-Sales-Analysis-Excel
-│
-├── README.md
-├── dashboard.png
-├── dataset_preview.png
-└── retail_sales_analysis_excel.xlsx
+Raw_Data 
+Cleaned dataset used for analysis
+
+Business_Analysis_Framework 
+Business questions guiding the analysis
+
+Pivot_Analysis 
+Pivot tables used to derive insights
+
+Dashboard 
+Interactive dashboard summarizing key metrics
 
 ---
 
