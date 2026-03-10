@@ -138,10 +138,10 @@ retail_sales_analysis_excel.xlsx
 Retail-Sales-Analysis-Excel/
 │
 ├── README.md
-├── Retail Sales Analysis Dashboard.xlsx
+├── retail_sales_analysis_excel.xlsx
 │
 ├── dataset_preview.png
-└── sales_dashboard.png
+└── dashboard.png
 
 ---
 
@@ -158,11 +158,11 @@ Retail-Sales-Analysis-Excel/
 
 - README.md - Project documentation including project overview, dataset information, dashboard explanation, insights, and recommendations.
 
-- Retail Sales Analysis Dashboard.xlsx - Excel workbook containing the dataset, data analysis, pivot tables, and the final sales dashboard.
+- retail_sales_analysis_excel.xlsx - Excel workbook containing the dataset, data analysis, pivot tables, and the final sales dashboard.
 
 - dataset_preview.png - Screenshot showing a preview of the dataset used in the analysis.
 
-- sales_dashboard.png - Screenshot of the final Excel dashboard visualizing retail sales performance.
+- dashboard.png - Screenshot of the final Excel dashboard visualizing retail sales performance.
 
 ---
 
