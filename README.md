@@ -143,7 +143,7 @@ Interactive slicers allow dynamic filtering of the dashboard.
 - UPI leads with ₹12.35M, accounting for over 50% of total transactions.
 
 ### Operational Efficiency
-- 70% of orders were delivered, while 11% were cancelled, with ~19% in pending/returned status.
+- 70% of orders were delivered, while 11% were cancelled, with 19% in pending/returned status.
 
 ### Geographic Performance
 - Ashok Nagar leads with ₹3.31M in sales, while Fort Road lags at ₹1.62M.
@@ -165,7 +165,7 @@ Interactive slicers allow dynamic filtering of the dashboard.
 
 - Focus on high-performing categories (Home Appliances, Apparel) through targeted promotions and inventory expansion  
 - Optimize in-store sales by introducing targeted promotions and improving product placement based on high-performing categories 
-- Heavy reliance on wholesale customers (~56%) creates revenue concentration risk if demand from this segment declines.  
+- Heavy reliance on wholesale customers (56%) creates revenue concentration risk if demand from this segment declines.  
 - Promote digital payments (UPI, cards) through incentives and streamlined checkout  
 - Improve order fulfillment processes to reduce cancellations and pending orders  
 - Expand in high-performing localities while optimizing strategy in underperforming regions  
