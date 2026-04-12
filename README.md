@@ -30,7 +30,7 @@ Retail businesses operate in a highly competitive environment where understandin
 
 With multiple product categories, sales channels, and customer segments, businesses need data-driven insights to identify revenue drivers, optimize inventory, and improve customer experience.
 
-This project simulates a real-world retail scenario where transactional data is analyzed to uncover patterns in sales, customer preferences, and order fulfillment performance.
+This project reflects a real-world retail scenario where transactional data is analyzed to uncover patterns in sales, customer preferences, and order fulfillment performance.
 
 ---
 
@@ -153,11 +153,19 @@ Interactive slicers allow dynamic filtering of the dashboard.
 
 ---
 
+## Business Impact
+
+- Identified Home Appliances as the top revenue driver contributing ₹6.94M, highlighting key areas for revenue optimization  
+- Highlighted 30% operational inefficiency due to cancelled, pending, and returned orders  
+- Revealed strong dependence on wholesale segment (56%), indicating potential revenue concentration risk  
+
+---
+
 ## Business Recommendations
 
 - Focus on high-performing categories (Home Appliances, Apparel) through targeted promotions and inventory expansion  
-- Strengthen in-store sales channel with improved user experience and marketing investment  
-- Reduce dependency on wholesale segment by expanding retail customer base  
+- Optimize in-store sales by introducing targeted promotions and improving product placement based on high-performing categories 
+- Heavy reliance on wholesale customers (~56%) creates revenue concentration risk if demand from this segment declines.  
 - Promote digital payments (UPI, cards) through incentives and streamlined checkout  
 - Improve order fulfillment processes to reduce cancellations and pending orders  
 - Expand in high-performing localities while optimizing strategy in underperforming regions  
