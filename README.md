@@ -137,7 +137,7 @@ Interactive slicers allow dynamic filtering of the dashboard.
 - In-store channel contributes the largest share (50%), significantly outperforming online orders (37%).
 
 ### Customer Segments
-- Wholesale customers dominate revenue (~56%), showing heavy reliance on B2B sales.
+- Wholesale customers dominate revenue (56%), showing heavy reliance on B2B sales.
 
 ### Payment Behavior
 - UPI leads with ₹12.35M, accounting for over 50% of total transactions.
