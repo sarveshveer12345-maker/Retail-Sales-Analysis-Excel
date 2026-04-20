@@ -229,6 +229,7 @@ retail_sales_analysis_excel.xlsx
 
 ## Project Structure
 
+```
 Retail-Sales-Analysis-Excel/
 │
 ├── README.md
@@ -236,6 +237,7 @@ Retail-Sales-Analysis-Excel/
 │
 ├── dataset_preview.png
 └── dashboard.png
+```
 
 ---
 
